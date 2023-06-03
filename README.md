@@ -5,7 +5,7 @@ Implement Matrix Multiplication using GPU.
 
 To implement matrix multiplication using GPU.
 
-Procedure:
+## Procedure:
 
 ### Step 1:
 Define constants and variables, including matrix sizes and device memory pointers.
